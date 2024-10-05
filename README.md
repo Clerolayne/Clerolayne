@@ -7,7 +7,11 @@
 
 - 👯 I’m looking to collaborate on **the continuous improvement of organizational processes through data analysis**
 
-- 💬 Ask me about **I began my career in the telecommunications sector, where I worked as a process analyst for mobile services. During this time, I discovered my passion for technology and data analysis. However, upon observing the rapid evolution of the market and the growing demand for technology professionals, I decided to make a significant change in my career. I immigrated to Portugal in 2021 as a master's student and found a great opportunity in the industrial sector. Upon entering the sector as a planner, I realized there was a shortage of qualified professionals capable of utilizing modern technologies to optimize production processes. Initially, by using only my skills in Excel, Power Query, and Power BI, I began implementing data analysis solutions that improved the operational efficiency of the company. My work not only brought significant improvements but also positioned me as a key professional in the digital transformation of the sector. Currently, I am deepening my knowledge through a master's program in data modeling at the University of Porto.**
+- 💬 Ask me about **I hold a Bachelor's degree in Industrial Engineering and began my career in the telecommunications sector as a process analyst for mobile services. During this time, I discovered my passion for technology and data analysis. Observing the rapid evolution of the market and the growing demand for skilled professionals in technology, I decided to make a significant shift in my career. In 2021, I immigrated to Portugal to pursue a master’s degree, which opened a great opportunity for me in the industrial sector.
+
+Upon entering the field of industrial planning, I identified a shortage of professionals equipped to apply modern technologies to optimize production processes. Leveraging my skills in Excel, Power Query, and Power BI, I started implementing data analysis solutions that enhanced the company’s operational efficiency. These improvements not only brought significant results but also positioned me as a key contributor to the sector’s digital transformation.
+
+Currently, I am deepening my knowledge through a master’s program in Data Modeling, Analysis, and Decision Support Systems at the University of Porto, with the aim of continuing to make a positive impact in the industry through innovative data analysis solutions.**
 
 - 📫 How to reach me **claudiacs.rj@gmail.com**
 
